@@ -1,4 +1,12 @@
-### Hi there 👋
+# About
+I am a 4th  semester student of **Computer Science and Information Systems** at the Faculty of Mathematics and Information Science at the Warsaw University of Technology.
+
+I have a strong command of Java and possess knowledge of C, C++, C#, Python, R. I look formward to learning Kotlin.
+
+In my free time I would like to resume working on my [Java game engine](https://github.com/kubazuch/KuZuEngine-old), which I've written for the sole purpose of learning.
+
+## Contact
+- jakubzuchowski13@gmail.com
 
 <!--
 **kubazuch/kubazuch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
