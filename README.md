@@ -5,6 +5,13 @@ I have a strong command of Java, as it is the language I have programmed in the 
 
 In my free time I would like to resume working on my [Java game engine](https://github.com/kubazuch/KuZuEngine-old), which I've written for the sole purpose of learning.
 
+<span>
+  <img height=200 width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=kubazuch&show_icons=true&theme=dracula&rank_icon=github" />
+</span>
+<span>
+  <img height=200 width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubazuch&layout=compact&theme=dracula" />
+</span>
+
 ## Contact
 - jakubzuchowski13@gmail.com
 
