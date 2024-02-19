@@ -3,7 +3,7 @@ I am a 6th  semester student of **Computer Science and Information Systems** at 
 
 I have a strong command of Java, as it is the language I have programmed in the longest. I also have a good grasp of C, C++, C#, Python. I look forward to learning Kotlin.
 
-In my free time I would like to resume working on my [Java game engine](https://github.com/kubazuch/KuZuEngine-old), which I've written for the sole purpose of learning.
+In my free time I like to work on my [C++ game engine](https://github.com/kubazuch/kEn), which I've been writing for the sole purpose of learning.
 
 <span>
   <img height=200 width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=kubazuch&show_icons=true&theme=dracula&rank_icon=github" />
