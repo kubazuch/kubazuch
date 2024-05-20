@@ -5,12 +5,10 @@ I have a strong command of Java, as it is the language I have programmed in the 
 
 In my free time I like to work on my [C++ game engine](https://github.com/kubazuch/kEn), which I've been writing for the sole purpose of learning.
 
-<span>
-  <img height=200 width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=kubazuch&show_icons=true&theme=dracula&rank_icon=github" />
-</span>
-<span>
-  <img height=200 width="49.5%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubazuch&layout=compact&theme=dracula" />
-</span>
+![](https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Contact
 - jakubzuchowski13@gmail.com
