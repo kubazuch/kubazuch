@@ -1,5 +1,5 @@
 # About
-I am a 6th  semester student of **Computer Science and Information Systems** at the Faculty of Mathematics and Information Science at the Warsaw University of Technology.
+I am a 7th  semester student of **Computer Science and Information Systems** at the Faculty of Mathematics and Information Science at the Warsaw University of Technology.
 
 I have a strong command of Java, as it is the language I have programmed in the longest. I also have a good grasp of C, C++, C#, Python. I look forward to learning Kotlin.
 
