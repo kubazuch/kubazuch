@@ -1,5 +1,5 @@
 # About
-I am a 1st semester Master’s student of **Computer Science and Information Systems**, specializing in **CAD/CAM Systems Design**, at the Faculty of Mathematics and Information Science at the Warsaw University of Technology.
+I am a 2nd semester Master’s student of **Computer Science and Information Systems**, specializing in **CAD/CAM Systems Design**, at the Faculty of Mathematics and Information Science at the Warsaw University of Technology.
 
 I have a strong command of Java and C++, as those are the languages I have programmed in the most. I also have a good grasp of C, C#, Python. I look forward to learning Kotlin.
 
