@@ -3,7 +3,7 @@ I am a 2nd semester Master’s student of **Computer Science and Information Sys
 
 I have a strong command of Java and C++, as those are the languages I have programmed in the most. I also have a good grasp of C, C#, Python. I look forward to learning Kotlin.
 
-In my free time I like to work on my [C++ game engine](https://github.com/kubazuch/kEn), which I've been writing for the sole purpose of learning.
+In my free time I like to work on my [C++ game engine](https://github.com/kubazuch/kEn), which I've been writing for the sole purpose of learning. It has since become the foundation for all my graphics-related university projects. 
 
 ![](https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/overview.svg#gh-light-mode-only)
