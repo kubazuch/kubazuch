@@ -1,8 +1,6 @@
 # About
 <!--I am a 3rd semester . I previously completed my Engineering degree at the same faculty, and the engineering project developed as part of my thesis is available [here](https://github.com/gizmokis/resin).-->
-Master’s student of **Computer Science and Information Systems** specializing in **CAD/CAM Systems Design** at the Faculty of Mathematics and Information Science, Warsaw University of Technology.
-
-I previously completed my Engineering degree at the same faculty. My engineering thesis project is available here: [resin](https://github.com/gizmokis/resin)
+Master’s student of **Computer Science and Information Systems** specializing in **CAD/CAM Systems Design** at the Faculty of Mathematics and Information Science, Warsaw University of Technology. I previously completed my Engineering degree at the same faculty. My engineering thesis project is available here: [resin](https://github.com/gizmokis/resin)
 
 ## What I do
 
@@ -22,7 +20,3 @@ In my free time I like to work on my [C++ game engine](https://github.com/kubazu
   <img src="https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </p>
-
-## Contact
-- jakubzuchowski13@gmail.com
-- jakub.zuchowski.stud@pw.edu.pl
