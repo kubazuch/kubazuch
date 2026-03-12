@@ -12,13 +12,7 @@ At work, I am a Backend Java Engineer specializing in the Spring ecosystem. I wo
 ### Programming
 I have a strong command of Java and C++, as those are the languages I have programmed in the most. I also have a good grasp of C, C#, and Python. I’ve worked with a range of technologies over time, so I’m comfortable learning new tools when needed.
 
-### Projects
 In my free time I like to work on my [C++ game engine](https://github.com/kubazuch/kEn), which I've been writing for the sole purpose of learning. It has since become the foundation for all my graphics-related university projects.
-
-### Research interests
-My main academic interests are graph theory and graph algorithms, and I hope to pursue a PhD in this area in the future.
-
-Previously, I was part of a research team working on fair divisions in various families of graphs. Currently, I work with a team studying properties of ordered graphs and designing algorithms for them.
 
 ---
 
