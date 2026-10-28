@@ -15,8 +15,8 @@ In my free time I like to work on my [C++ game engine](https://github.com/kubazu
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-  <img src="https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/kubazuch/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/kubazuch/github-stats/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/kubazuch/github-stats/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/kubazuch/github-stats/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/kubazuch/github-stats/generated/languages.svg#gh-light-mode-only" />
 </p>
